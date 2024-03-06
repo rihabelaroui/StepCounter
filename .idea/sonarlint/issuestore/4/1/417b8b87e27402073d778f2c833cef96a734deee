@@ -1,0 +1,8 @@
+
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÆ°žþÿÿÿÿ8£¼¸‹Û1
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‘­¬ýÿÿÿÿ8£¼¸‹Û1
+c
+java:S1226:"AIntroduce a new variable instead of reusing the parameter "view".( ¢ˆÐûÿÿÿÿ8ª¼¸‹Û1
+r	java:S116"QRename this field "IMAGES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ãÿ„ýÿÿÿÿ8´¼¸‹Û1
+q	java:S116"PRename this field "NAMES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å÷‰‰ýÿÿÿÿ8´¼¸‹Û1
+s	java:S116"WRename this field "DESCRIPTIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Žî·Þ8´¼¸‹Û1
